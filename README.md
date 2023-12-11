@@ -1,8 +1,8 @@
-# React + Vite
+## Projeto sobre filmes com API
+* Nesse projeto mostra os filmes mais bem avaliados da API, e você pode pesquisar por filmes da sua preferência onde ao clicar em detralhes mostra algumas informações sobre o filme.
+## Tecnologias utilizadas no Projeto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Jsx
+* React + Vite
+* CSS
+* API tmbd
